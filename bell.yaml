@@ -1,0 +1,10 @@
+app:
+  name: bell
+  addr: ':80'
+
+log:
+    file: bell.log
+    max-size: 5
+    max-backups: 90
+    max-age: 60
+    level: DEBUG

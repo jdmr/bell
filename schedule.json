@@ -1,0 +1,124 @@
+[
+  {
+    "name": "schedule1",
+    "starts": "2022-08-01",
+    "ends": "2022-12-24",
+    "days": [
+      {
+        "name": "Sunday",
+        "events": []
+      },
+      {
+        "name": "Monday",
+        "events": [
+          {
+            "time": "08:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "09:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "10:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "11:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "12:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "13:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "14:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "15:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          }
+        ]
+      },
+      {
+        "name": "Tuesday",
+        "events": [
+          {
+            "time": "08:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "09:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "10:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "11:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "12:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "13:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "14:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "15:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          }
+        ]
+      },
+      {
+        "name": "Thursday",
+        "events": [
+          {
+            "time": "08:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "09:21",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "10:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "11:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "12:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "13:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "14:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          },
+          {
+            "time": "15:00",
+            "sound": "184829__thecityrings__about-the-schools-cevlpt-school-bell.mp3"
+          }
+        ]
+      }
+    ]
+  }
+]
